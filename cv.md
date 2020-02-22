@@ -13,3 +13,5 @@ fun main(args: Array<String>) {
 ```
 #### Education
 Belarussian State University, Faculty of Radiophysics and Computer Technologies 2005 - 2010
+#### English Level
+Intermediate
