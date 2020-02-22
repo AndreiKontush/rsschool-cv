@@ -1,13 +1,15 @@
-CV
-Name:
+## CV
+#### Name
 Andrei Kontush
-Contacts:
+#### Contacts
 +375296991987
-Programming Languages:
+#### Programming Languages
 Java, Kotlin
-Code:
+#### Code
+```kotlin
 fun main(args: Array<String>) {
     println("Nice to meet you, Kotlin.")
 }
-Education:
+```
+#### Education
 Belarussian State University, Faculty of Radiophysics and Computer Technologies 2005 - 2010
